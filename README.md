@@ -1,5 +1,5 @@
-# Flower-Recognition-using-MobileNet-Tensorflow
-In this project we are mainly focusing towards how we can build a dataframe from folders of images and classify them with deep neural nets.
+# Flower-Recognition-using-MobileNet-Tensorflow ( 99% accuracy)
+In this project we are mainly focusing towards how we can build a dataframe from folders of images and classify them with deep neural nets.I have got 99 % model accuracy for this model
 
 #### Data Source : ![Link](https://www.kaggle.com/alxmamaev/flowers-recognition)
 - This dataset contains 4242 images of flowers.
@@ -13,4 +13,8 @@ The pictures are divided into five classes: chamomile, tulip, rose, sunflower, d
 
 #### Model Loss
 ![download 2](https://user-images.githubusercontent.com/28821226/104843780-5ff2a700-58f2-11eb-936b-de96c1bf62be.png)
+
+#### Predictions 
+![pred](https://user-images.githubusercontent.com/28821226/104843875-e1e2d000-58f2-11eb-93d5-708039fdb446.png)
+
 
